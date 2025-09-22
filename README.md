@@ -1,5 +1,4 @@
 # Amazon_Dashboard
-Amazon_Sales_Dashboard
 
 📦 Amazon Sales Dashboard
 
