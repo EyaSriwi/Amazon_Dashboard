@@ -15,13 +15,6 @@ The dashboard helps you transform raw Amazon order data into actionable insights
 🚚 How efficient is order fulfillment?
 🧩 How does each product category contribute to overall sales?
 
-🛠 Technologies Used
-🐍 Python – Data processing and analysis
-📊 Pandas & NumPy – Data manipulation and calculations
-📈 Plotly & Matplotlib – Interactive and static visualizations
-🌐 Dash / Streamlit (optional) – Web-based interactive dashboard
-💻 GitHub – Version control and project sharing
-
 🎯 Project Objective
 Enable sellers and analysts to:
 
@@ -34,3 +27,8 @@ Monitor order fulfillment efficiency
 Make data-driven decisions to optimize inventory, sales strategy, and logistics
 
 🚀 Explore this project to practice Python data analysis, interactive visualization, and real-world sales dashboard creation!
+
+
+<img width="1321" height="722" alt="image" src="https://github.com/user-attachments/assets/bdd7549f-80ad-4e04-973a-fe9581f8dd78" />
+
+
